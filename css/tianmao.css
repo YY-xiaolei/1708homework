@@ -1,0 +1,160 @@
+/*
+* @Author: lenovo
+* @Date:   2017-09-29 19:03:56
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-09-30 10:33:37
+*/
+*{
+	margin: 0px auto;
+	padding: 0px;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.a34{
+	width: 100%;
+	height: 40px;
+	background: white;
+}
+.a35{
+	width: 786px;
+	height: 40px;
+	background: white;
+
+}
+.a36{
+	width: 102px;
+	height: 18px;
+	float: left;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+.a38{
+	width: 580px;
+	height: 27px;
+	background: white;
+	margin-left: 230px;
+}
+.a37{
+	display: block;
+	float: left;
+	margin-right: 10px;
+	margin-top: 7px;
+	color: #333333;
+}
+.a37:hover{
+	background:#999999;
+}
+.a20{
+	width: 100%;
+	height: 502px;
+	background: yellow;
+	margin: 0 auto;
+	position: relative;
+}
+.a21{
+	width: 100%;
+	height: 100%;
+	background: red;
+	top: 0;
+	right: 0;
+}
+.a22{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+
+}
+.a22 img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.a25{
+	width: 235px;
+	height: 100%;
+	background:rgba(22,44, 56, 0.8);
+	position: absolute;
+	left:50px;
+	bottom: 0;
+}
+.a30{
+	width: 160px;
+	height: 486px;
+	background:rgba(22,44, 56, 0) ;
+	margin-top: 6px;
+}
+
+	
+.a29{
+	width: 160px;
+	height: 20px;
+	background: rgba(22,44, 56, 0);
+	float: left;
+	margin-top: 11px;
+	
+}
+.a29:hover{
+	background: white;
+
+}
+.a29:first-child{
+	margin-top: 0px;
+}
+
+.a31{
+	font-size: 5px;
+	float: left;
+	margin-left: 10px;
+	color: #e6e9ea;
+	margin-top: 0px;
+}
+.a31:hover{
+	background: red;
+}
+.a31:first-child{
+	background: green;
+}
+
+.a32{
+	width: 186px;
+	height: 5px;
+	background: rgba(22,44, 56, 0);
+	position: absolute;
+	right:415px;
+	bottom: 25px;
+}
+.a33{
+	display: block;
+	width: 26px;
+	height: 5px;
+	background: #1a3167;
+	float: left;
+	margin-right: 6px;
+}
+.a33:last-child{
+	margin-right: 0px;
+}
+.a33:hover{
+	background: white;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 431772 */
+  src: url('http://at.alicdn.com/t/font_431772_rr1y0zd7sp33ow29.eot');
+  src: url('http://at.alicdn.com/t/font_431772_rr1y0zd7sp33ow29.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_431772_rr1y0zd7sp33ow29.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_431772_rr1y0zd7sp33ow29.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_431772_rr1y0zd7sp33ow29.svg#iconfont') format('svg');
+}
+
+.iconfont{
+	font-family: 'iconfont';
+	font-style: normal;
+	font-size: 15px;
+	color:#1a3167;
+	float: left;
+	margin-left: 8px;
+}
+
+
